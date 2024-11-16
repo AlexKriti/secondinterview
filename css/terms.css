@@ -1,0 +1,17 @@
+ol{
+    max-width: 90%;
+    margin: auto;
+}
+
+ol li{
+    list-style: decimal;
+    font-family: "Inter";
+    font-size: 20px;
+    margin-bottom: 30px;
+}
+
+@media(max-width:750px){
+    ol li{
+        font-size: 15px;
+    }
+}

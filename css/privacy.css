@@ -1,0 +1,11 @@
+main h2{margin-bottom: 30px;}
+
+/* main ul{
+    margin-bottom: 30px;
+} */
+
+main ul li{
+    list-style: disc;
+    font-family: "Inter Light";
+    margin-bottom: 30px;
+}
